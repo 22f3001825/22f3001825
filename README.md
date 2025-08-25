@@ -43,7 +43,7 @@
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-jawad-9774ab339)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/22f3001825)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-red?logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-red?logo=firefox&logoColor=white)]((https://22f3001825.github.io/my_portfolio-main/ali_jawad_portfolio/))
 
 ---
 
