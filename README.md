@@ -7,9 +7,9 @@
 - 🎓 Pursuing **BS in Data Science & Programming** at **IIT Madras**
 - 📌 Interested in **Machine Learning, Deep Learning, and Generative AI**
 - 🏆 Projects:  
-  - **Predict the Success of Bank Telemarketing** → [Repo](#)  
-  - **Inaya Cakezz Operations Analytics** → [Repo](#)  
-  - **Qvizz (Exam Preparation App)** → [Repo](#)
+  - **Predict the Success of Bank Telemarketing** → [Repo](https://github.com/22f3001825/Machine-learning-bank-telemarketing-success) 
+  - **Inaya Cakezz Operations Analytics** → [Repo](https://github.com/22f3001825/BDM-CAPSTONE-PROJECT)
+  - **Qvizz (Exam Preparation App)** → [Repo](https://github.com/22f3001825/quiz_master_application_mad2)
 - 🌱 Currently learning **Deep Learning (CS6910)**   
 
 ---
@@ -43,7 +43,7 @@
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-jawad-9774ab339)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/22f3001825)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-red?logo=firefox&logoColor=white)]((https://22f3001825.github.io/my_portfolio-main/ali_jawad_portfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-red?logo=firefox&logoColor=white)](https://22f3001825.github.io/my_portfolio-main/ali_jawad_portfolio/)
 
 ---
 
