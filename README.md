@@ -174,7 +174,7 @@ me.say_hi()
 
 </div>
 
-## 💼 Professional Experience & Education
+## 🎓 Education and Career Journey
 
 <div align="center">
 
