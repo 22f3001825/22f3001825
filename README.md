@@ -241,8 +241,6 @@ timeline
   
   ![Visitor Count](https://profile-counter.glitch.me/22f3001825/count.svg)
   
-  **Made by Ali Jawad**
-  
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
