@@ -21,7 +21,7 @@ class AliJawad:
         self.role = "Data Science Student"
         self.university = "IIT Madras"
         self.location = "India"
-        self.languages = ["Python", "JavaScript", "SQL", "R"]
+        self.languages = ["Python", "JavaScript", "SQL"]
         self.interests = [
             "Machine Learning",
             "Deep Learning", 
@@ -64,7 +64,7 @@ me.say_hi()
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=22f3001825&repo=Machine-learning-bank-telemarketing-success&theme=tokyonight" alt="Bank Telemarketing"/>
         </a>
         <p><strong>Machine Learning • Python • Scikit-learn</strong></p>
-        <p>Advanced ML model to predict telemarketing campaign success with 85%+ accuracy using ensemble methods and feature engineering.</p>
+        <p>Advanced ML model to predict telemarketing campaign success with 78%+ accuracy using ensemble methods and feature engineering.</p>
       </div>
     </td>
     <td width="50%">
@@ -74,7 +74,7 @@ me.say_hi()
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=22f3001825&repo=BDM-CAPSTONE-PROJECT&theme=tokyonight" alt="Inaya Cakezz"/>
         </a>
         <p><strong>Business Analytics • Data Visualization • SQL</strong></p>
-        <p>Comprehensive business analytics dashboard for operational insights and performance optimization.</p>
+        <p>Comprehensive business analytics for operational insights and performance optimization.</p>
       </div>
     </td>
   </tr>
@@ -86,7 +86,7 @@ me.say_hi()
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=22f3001825&repo=quiz_master_application_mad2&theme=tokyonight" alt="Qvizz"/>
         </a>
         <p><strong>Flask • Vue.js • SQLite • Redis</strong></p>
-        <p>AI-powered exam preparation platform with adaptive learning algorithms and real-time analytics.</p>
+        <p>Advance exam preparation platform with great UI/UX and real-time analytics.</p>
       </div>
     </td>
     <td width="50%">
@@ -112,7 +112,6 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -129,7 +128,6 @@ me.say_hi()
 ### 🌐 Web Development
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄️ Databases & Tools
@@ -161,33 +159,18 @@ me.say_hi()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=22f3001825&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=22f3001825&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/22f3001825/22f3001825/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-## 🎯 2024 Goals & Achievements
+## 🎯 Goals & Achievements
 
 <div align="center">
 
 | Goal | Status | Progress |
 |------|--------|----------|
-| 🎓 Complete Deep Learning Course | 🔄 In Progress | ████████░░ 80% |
-| 🏆 Publish Research Paper | 📝 Planning | ████░░░░░░ 40% |
-| 🚀 Launch ML SaaS Product | 💡 Ideation | ██░░░░░░░░ 20% |
-| 👥 Contribute to Open Source | ✅ Active | ██████████ 100% |
-| 📱 Build Mobile App | 🔄 Development | ██████░░░░ 60% |
+| 🎓 Complete my BS Degree in Data Science | 🔄 In Progress | ████████░░ 70% |
+| 🏆 Publish a Research Paper | 📝 Planning | ████░░░░░░ 40% |
+| 🚀 Launch an ML SaaS Product | 💡 Ideation | ██░░░░░░░░ 20% |
+| 💼 Land an Internship in ML / Data Science | 🎯 Applying & Upskilling | ██████░░░░ 70% |
+| 🦄 Build My Own Startup | 🌟 Dream in Motion | █░░░░░░░░░ 10% |
 
 </div>
 
@@ -197,16 +180,22 @@ me.say_hi()
 
 ```mermaid
 timeline
-    title Ali's Journey
-    2022 : Started BS Data Science & Programming
-         : IIT Madras
-    2023 : First ML Project
-         : Bank Telemarketing Predictor
-    2024 : Advanced Projects
-         : Qvizz App Development
-         : Business Analytics Capstone
-    2025 : Deep Learning Specialization
-         : Advanced AI Research
+    title 🚀 MY Data Science Journey
+    2022 : 🎓 Started BS in Data Science & Programming  
+           🏫 IIT Madras  
+    2023 : 📚 Built Strong Foundations  
+           🐍 Learned Python, Advanced Statistics, Mathematics, SQL  
+    2024 : 💡 Hands-on Experience  
+           🤖 Machine Learning Projects  
+           📊 Business Analytics Capstone   
+    2025 : 🔬 Specialization & Research  
+           🧠 Deep Learning (CS6910)  
+           📑 Advanced AI Research  
+           💼 Aiming for Internship in ML / Data Science  
+    2026 : 🌟 Future Vision  
+           🦄 Build My Own Startup  
+           🌍 Apply AI to Solve Real-World Problems
+
 ```
 
 </div>
@@ -218,7 +207,6 @@ timeline
   🔭 **Currently Working On**: Advanced Neural Network Architectures for NLP  
   🌱 **Learning**: PyTorch, Transformers, MLOps  
   👯 **Looking to Collaborate**: Open Source ML Projects  
-  🤔 **Seeking Help**: Advanced Computer Vision Techniques  
   💬 **Ask Me About**: Python, Machine Learning, Web Development  
   📫 **Reach Me**: [LinkedIn](https://linkedin.com/in/ali-jawad-9774ab339)  
   ⚡ **Fun Fact**: I debug code better after a good cup of coffee! ☕
