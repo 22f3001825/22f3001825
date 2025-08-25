@@ -1,17 +1,16 @@
 # Hi 👋, I'm Ali Jawad  
-🚀 Data Science Student | 📊 Aspiring ML Engineer | 💻 Open Source Enthusiast  
+🚀 Data Science Student | 📊 Aspiring ML Engineer | 💡 Curious Mind
 
 ---
 
 ### 🔥 About Me
-- 🎓 Pursuing **BSc in Data Science & Programming** at **IIT Madras**
-- 📌 Interested in **Machine Learning, Deep Learning, and Data Engineering**
+- 🎓 Pursuing **BS in Data Science & Programming** at **IIT Madras**
+- 📌 Interested in **Machine Learning, Deep Learning, and Generative AI**
 - 🏆 Projects:  
   - **Predict the Success of Bank Telemarketing** → [Repo](#)  
   - **Inaya Cakezz Operations Analytics** → [Repo](#)  
   - **Qvizz (Exam Preparation App)** → [Repo](#)
-- 🌱 Currently learning **Deep Learning (CS6910)**  
-- ⚡ Fun fact: I love reading articles, cricket 🏏, and meditation 🧘‍♂️  
+- 🌱 Currently learning **Deep Learning (CS6910)**   
 
 ---
 
@@ -45,11 +44,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-jawad-9774ab339)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/22f3001825)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-red?logo=firefox&logoColor=white)](#)
-
----
-
-### 🐍 Fun Bonus
-![Snake animation](https://github.com/22f3001825/22f3001825/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
