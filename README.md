@@ -1,4 +1,6 @@
-# Ali Jawad
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ALI%20JAWAD&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+Student+%40+IIT+Madras;Machine+Learning+Engineer;Full+Stack+Developer" alt="Typing SVG" />
@@ -103,16 +105,6 @@ Responsive personal portfolio showcasing projects, skills, and professional expe
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22f3001825&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
-
-## Professional Experience
-
-| Domain | Proficiency | Experience |
-|--------|-------------|------------|
-| Python Development | ![90%](https://progress-bar.dev/90) | 3+ Years |
-| Machine Learning | ![85%](https://progress-bar.dev/85) | 2+ Years |
-| Data Analytics | ![88%](https://progress-bar.dev/88) | 2+ Years |
-| Web Development | ![80%](https://progress-bar.dev/80) | 2+ Years |
-| Deep Learning | ![75%](https://progress-bar.dev/75) | 1+ Year |
 
 ## Connect With Me
 
