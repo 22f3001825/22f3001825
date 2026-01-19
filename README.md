@@ -98,12 +98,15 @@ Responsive personal portfolio showcasing projects, skills, and professional expe
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=22f3001825&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=22f3001825&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22f3001825&show_icons=true&theme=algolia&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&text_color=ffffff&title_color=00D9FF&count_private=true&include_all_commits=true)](https://github.com/22f3001825)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22f3001825&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=22f3001825&theme=algolia&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://github.com/22f3001825)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22f3001825&layout=compact&theme=algolia&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=ffffff&hide_border=false)](https://github.com/22f3001825)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=22f3001825&custom_title=Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true)](https://github.com/22f3001825)
+
 </div>
 
 ## Connect With Me
