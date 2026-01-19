@@ -1,307 +1,130 @@
-
-# <div align="center">🚀 **WELCOME TO MY DIGITAL UNIVERSE** 🚀</div>
+# Ali Jawad
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ALI%20JAWAD&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+Student+%40+IIT+Madras;Machine+Learning+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=DATA+SCIENCE+VIRTUOSO+%40+IIT+MADRAS;AI+ARCHITECT+%7C+ML+ALCHEMIST;TRANSFORMING+DATA+INTO+INTELLIGENCE;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing SVG" />
-</div>
+## About Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+Data Science student at IIT Madras with a passion for building intelligent systems and scalable applications. I specialize in machine learning, data analytics, and full-stack development, with a focus on creating practical solutions to real-world problems.
 
-## <div align="center">🌟 **DIGITAL IDENTITY MATRIX** 🌟</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
+**Current Focus:** Deep Learning Architectures & AI-Powered Applications
 
 ```python
-class AIVisionary:
+class Developer:
     def __init__(self):
-        self.identity = {
-            "name": "Ali Jawad",
-            "role": "Data Science Virtuoso",
-            "university": "IIT Madras",
-            "mission": "Democratizing AI for Humanity",
-            "superpowers": [
-                "🧠 Neural Network Architect",
-                "📊 Data Whisperer", 
-                "🚀 Innovation Catalyst",
-                "⚡ Code Alchemist"
-            ]
-        }
+        self.name = "Ali Jawad"
+        self.role = "Data Science Student"
+        self.institution = "IIT Madras"
+        self.languages = ["Python", "JavaScript", "SQL"]
+        self.interests = ["Machine Learning", "Data Analytics", "Web Development"]
     
-    def current_quest(self):
-        return "Mastering Deep Learning Architectures"
-    
-    def life_motto(self):
-        return "Turning Coffee into Intelligent Systems ☕→🤖"
-
-# Initialize the journey
-ali = AIVisionary()
-print(f"🚀 {ali.identity['mission']}")
+    def current_projects(self):
+        return ["AI Chatbots", "Predictive Analytics", "Full Stack Applications"]
 ```
 
-</td>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
-</td>
-</tr>
-</table>
-</div>
+## Technical Skills
 
-## <div align="center">⚡ **LIVE STATS & ACHIEVEMENTS** ⚡</div>
+**Languages & Core**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=22f3001825&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy" />
-</div>
+**Machine Learning & Data Science**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=22f3001825&show_icons=true&theme=algolia&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&text_color=ffffff&title_color=00D9FF&count_private=true&include_all_commits=true" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=22f3001825&theme=algolia&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="100%"/>
-</td>
-</tr>
-</table>
-</div>
+**Web Development**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=22f3001825&custom_title=Ali's%20Contribution%20Galaxy&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## <div align="center">🎯 **MISSION CONTROL CENTER** 🎯</div>
+## Featured Projects
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+### 🏦 Bank Telemarketing Success Prediction
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/22f3001825/Machine-learning-bank-telemarketing-success)
 
-### **CURRENT EXPEDITIONS**
+Machine learning model achieving 78%+ accuracy in predicting telemarketing campaign success. Implemented ensemble methods and advanced feature engineering to optimize marketing strategies.
 
-| 🚀 Mission | 📊 Progress | 🎯 Status | ⏰ ETA |
-|------------|-------------|-----------|---------|
-| 🎓 **Data Science Mastery** | ![90%](https://progress-bar.dev/90?color=00d9ff) | 🔥 **BLAZING** | Dec 2025 |
-| 🧠 **Deep Learning Specialist** | ![75%](https://progress-bar.dev/75?color=ff6b6b) | ⚡ **ACCELERATING** | Dec 2025 |
-| 📑 **Research Publication** | ![40%](https://progress-bar.dev/40?color=4ecdc4) | 💡 **IDEATING** | Mar 2026 |
-| 🦄 **AI Startup Launch** | ![20%](https://progress-bar.dev/20?color=ffe66d) | 🌱 **GERMINATING** | 2027 |
+**Tech Stack:** Python, Scikit-learn, Pandas, Statistical Modeling
 
-</div>
+### 📊 Inaya Cakezz Business Analytics Platform
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/22f3001825/BDM-CAPSTONE-PROJECT)
 
-## <div align="center">🛠️ **TECHNOLOGICAL ARSENAL** 🛠️</div>
+Comprehensive business intelligence dashboard for performance analytics and strategic decision-making. Built interactive visualizations and optimization engines for ROI enhancement.
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br><br>
+**Tech Stack:** Python, SQL, Tableau, Data Analytics
 
-### **🔥 CORE WEAPONS**
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sql&theme=dark" />
+### 🎓 Qvizz - Interactive Learning Platform
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/22f3001825/quiz_master_application_mad2)
 
-### **🤖 AI & ML ARSENAL**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-<img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+Gamified education platform with real-time analytics and mobile-first architecture. Features include dynamic quiz generation, performance tracking, and responsive UI.
 
-### **🌐 WEB TECHNOLOGIES**
-<img src="https://skillicons.dev/icons?i=flask,vue,bootstrap&theme=dark" />
+**Tech Stack:** Flask, Vue.js, Redis, RESTful APIs
 
-### **🗄️ DATA INFRASTRUCTURE**
-<img src="https://skillicons.dev/icons?i=sqlite,postgresql,redis,git,docker&theme=dark" />
+### 🤖 Intellica - AI Customer Support Platform
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/22f3001825/soft-engg-project-sep-2025-se-SEP-16)
 
-### **☁️ CLOUD PLATFORMS**
-<img src="https://skillicons.dev/icons?i=aws,gcp,heroku&theme=dark" />
+AI-powered customer support system with RAG chatbot, smart ticketing, and multi-role portal. Implements natural language processing for automated priority assignment and intelligent routing.
 
-</div>
+**Key Features:**
+- RAG Chatbot for context-aware assistance
+- AI Copilot for real-time agent support
+- Smart ticket classification and prioritization
+- Analytics dashboard with performance metrics
 
-## <div align="center">🏆 **FLAGSHIP PROJECTS SHOWCASE** 🏆</div>
+**Tech Stack:** Python, NLP, Machine Learning, Full Stack Development
+
+### 🌐 Portfolio Website
+[![Live Site](https://img.shields.io/badge/View_Live-FF5722?style=for-the-badge&logo=firefox)](https://22f3001825.github.io/my_portfolio-main/ali_jawad_portfolio/)
+
+Responsive personal portfolio showcasing projects, skills, and professional experience with modern design and smooth animations.
+
+## GitHub Statistics
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### **PROJECT CONSTELLATION**
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-#### 🏛️ **BANK TELEMARKETING AI**
-[![Repo](https://img.shields.io/badge/🔗%20Repository-0D1117?style=for-the-badge&logo=github)](https://github.com/22f3001825/Machine-learning-bank-telemarketing-success)
-
-**🎯 78%+ Accuracy Prediction Engine**
-- 🧠 **Ensemble ML Algorithms**
-- ⚡ **Advanced Feature Engineering** 
-- 📊 **Statistical Modeling Excellence**
-- 🎭 **Real-world Business Impact**
-
-*Technologies: Python • Scikit-learn • Pandas*
-
-</td>
-<td align="center" width="33%">
-
-#### 📊 **INAYA CAKEZZ ANALYTICS**
-[![Repo](https://img.shields.io/badge/🔗%20Repository-0D1117?style=for-the-badge&logo=github)](https://github.com/22f3001825/BDM-CAPSTONE-PROJECT)
-
-**📈 Business Intelligence Platform**
-- 💼 **Strategic Analytics Dashboard**
-- 🔍 **Performance Optimization Engine**
-- 📊 **Interactive Visualizations**
-- 🎯 **ROI Enhancement Strategies**
-
-*Technologies: Python • SQL • Tableau*
-
-</td>
-<td align="center" width="33%">
-
-#### 🧠 **QVIZZ LEARNING NEXUS**
-[![Repo](https://img.shields.io/badge/🔗%20Repository-0D1117?style=for-the-badge&logo=github)](https://github.com/22f3001825/quiz_master_application_mad2)
-
-**🎮 Gamified Education Platform**
-- 🚀 **Real-time Analytics Engine**
-- 🎨 **Stunning UI/UX Design**
-- ⚡ **High-Performance Backend**
-- 📱 **Mobile-First Architecture**
-
-*Technologies: Flask • Vue.js • Redis*
-
-</td>
-</tr>
-</table>
-
-#### 🌟 **DIGITAL PORTFOLIO EXPERIENCE**
-<div align="center">
-<a href="https://22f3001825.github.io/my_portfolio-main/ali_jawad_portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20UNIVERSE-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117" />
-</a>
-
-**✨ Immersive • Responsive • Interactive ✨**
+  <img src="https://github-readme-stats.vercel.app/api?username=22f3001825&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=22f3001825&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
-
-</div>
-
-## <div align="center">📈 **SKILL EVOLUTION MATRIX** 📈</div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22f3001825&layout=donut-vertical&theme=algolia&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=ffffff" width="40%" />
-
-### **MASTERY LEVELS**
-
-| **Domain** | **Expertise** | **Experience** |
-|------------|---------------|----------------|
-| 🐍 **Python Mastery** | ![95%](https://progress-bar.dev/95?color=3776ab) | 3+ Years |
-| 🤖 **Machine Learning** | ![88%](https://progress-bar.dev/88?color=ff6f00) | 2+ Years |
-| 📊 **Data Analytics** | ![90%](https://progress-bar.dev/90?color=e97627) | 2+ Years |
-| 🌐 **Web Development** | ![82%](https://progress-bar.dev/82?color=61dafb) | 2+ Years |
-| 🧠 **Deep Learning** | ![75%](https://progress-bar.dev/75?color=ee4c2c) | 1+ Year |
-| ☁️ **Cloud Computing** | ![70%](https://progress-bar.dev/70?color=ff9900) | 1+ Year |
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22f3001825&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
-## <div align="center">🎓 **ACADEMIC ODYSSEY** 🎓</div>
+## Professional Experience
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+| Domain | Proficiency | Experience |
+|--------|-------------|------------|
+| Python Development | ![90%](https://progress-bar.dev/90) | 3+ Years |
+| Machine Learning | ![85%](https://progress-bar.dev/85) | 2+ Years |
+| Data Analytics | ![88%](https://progress-bar.dev/88) | 2+ Years |
+| Web Development | ![80%](https://progress-bar.dev/80) | 2+ Years |
+| Deep Learning | ![75%](https://progress-bar.dev/75) | 1+ Year |
 
-```mermaid
-timeline
-    title 🚀 MY EPIC DATA SCIENCE VOYAGE
-    
-    2022 : 🎯 IGNITION PHASE
-         : 🏫 Enrolled at IIT Madras
-         : 📚 Foundation Building Begins
-         
-    2023 : ⚡ ACCELERATION PHASE  
-         : 🐍 Python Mastery Achieved
-         : 📊 Statistics & Mathematics Excellence
-         : 🗄️ SQL Database Expertise
-         
-    2024 : 🚀 BREAKTHROUGH PHASE
-         : 🤖 Advanced Machine Learning
-         : 💼 Real-World Project Implementation
-         : 🏆 Business Analytics Capstone Success
-         
-    2025 : 🌟 SPECIALIZATION PHASE
-         : 🧠 Deep Learning Architecture (CS6910)
-         : 🔬 AI Research & Innovation
-         : 💼 Industry Internship Target
-         
-    2026+ : 🦄 VISIONARY PHASE
-          : 🌍 Global AI Impact
-          : 🚀 Startup Launch
-          : 🏆 Industry Leadership
-```
+## Connect With Me
 
-</div>
-
-## <div align="center">💫 **COSMIC CONNECTIONS** 💫</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
-
-### **JOIN MY DIGITAL CONSTELLATION**
-
-<a href="https://linkedin.com/in/ali-jawad-9774ab339" target="_blank">
-<img src="https://img.shields.io/badge/🔗%20LinkedIn%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://github.com/22f3001825" target="_blank">
-<img src="https://img.shields.io/badge/⭐%20GitHub%20Universe-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://22f3001825.github.io/my_portfolio-main/ali_jawad_portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/🌟%20Portfolio%20Galaxy-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="mailto:22f3001825@ds.study.iitm.ac.in" target="_blank">
-<img src="https://img.shields.io/badge/📧%20Mission%20Control-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://instagram.com/alien_x_019" target="_blank">
-<img src="https://img.shields.io/badge/📸%20Visual%20Stories-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
-</a>
-
-</div>
-
-## <div align="center">🎭 **INSPIRATION MATRIX** 🎭</div>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&border_color=00D9FF" width="60%"/>
-
-### **✨ PHILOSOPHY OF CODE ✨**
-
-> *"First, solve the problem. Then, write the code."* - **John Johnson**
-> 
-> *"The best error message is the one that never shows up."* - **Thomas Fuchs**
-> 
-> *"Code is like humor. When you have to explain it, it's bad."* - **Cory House**
-
-</div>
-
-## <div align="center">🌌 **VISITOR ANALYTICS** 🌌</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=22f3001825&color=00d9ff&style=for-the-badge&label=COSMIC+VISITORS" />
-<img src="https://img.shields.io/github/followers/22f3001825?style=for-the-badge&color=00d9ff&labelColor=0D1117&logo=github&label=STARSHIP+CREW" />
-<img src="https://img.shields.io/github/stars/22f3001825?style=for-the-badge&color=FF6B6B&labelColor=0D1117&logo=github&label=CONSTELLATION+STARS" />
-</div>
-
-## <div align="center">⚡ **QUANTUM SNAKE** ⚡</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-jawad-9774ab339)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/22f3001825)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://22f3001825.github.io/my_portfolio-main/ali_jawad_portfolio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:22f3001825@ds.study.iitm.ac.in)
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
-
-### 🚀 **"TRANSFORMING IMAGINATION INTO INTELLIGENT REALITY"** 🚀
-
-**Ali Jawad** • *Data Science Virtuoso* • *AI Architect* • *Future Shaper*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
-
+  <img src="https://komarev.com/ghpvc/?username=22f3001825&color=blueviolet&style=flat-square&label=Profile+Views" />
+  
+  **Open to collaborations and opportunities in Data Science, Machine Learning, and Full Stack Development**
 </div>
