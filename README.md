@@ -56,56 +56,88 @@ class Developer:
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏦 Bank Telemarketing Success Prediction
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/22f3001825/Machine-learning-bank-telemarketing-success)
 
-Machine learning model achieving 78%+ accuracy in predicting telemarketing campaign success. Implemented ensemble methods and advanced feature engineering to optimize marketing strategies.
+<a href="https://github.com/22f3001825/Machine-learning-bank-telemarketing-success">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=22f3001825&repo=Machine-learning-bank-telemarketing-success&theme=algolia&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff" />
+</a>
 
-**Tech Stack:** Python, Scikit-learn, Pandas, Statistical Modeling
+Machine learning model achieving **78%+ accuracy** in predicting telemarketing campaign success. Implemented ensemble methods and advanced feature engineering to optimize marketing strategies.
 
-### 📊 Inaya Cakezz Business Analytics Platform
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/22f3001825/BDM-CAPSTONE-PROJECT)
+**Tech Stack:** `Python` • `Scikit-learn` • `Pandas` • `Statistical Modeling`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Inaya Cakezz Business Analytics
+
+<a href="https://github.com/22f3001825/BDM-CAPSTONE-PROJECT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=22f3001825&repo=BDM-CAPSTONE-PROJECT&theme=algolia&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff" />
+</a>
 
 Comprehensive business intelligence dashboard for performance analytics and strategic decision-making. Built interactive visualizations and optimization engines for ROI enhancement.
 
-**Tech Stack:** Python, SQL, Tableau, Data Analytics
+**Tech Stack:** `Python` • `SQL` • `Tableau` • `Data Analytics`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🎓 Qvizz - Interactive Learning Platform
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/22f3001825/quiz_master_application_mad2)
+
+<a href="https://github.com/22f3001825/quiz_master_application_mad2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=22f3001825&repo=quiz_master_application_mad2&theme=algolia&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff" />
+</a>
 
 Gamified education platform with real-time analytics and mobile-first architecture. Features include dynamic quiz generation, performance tracking, and responsive UI.
 
-**Tech Stack:** Flask, Vue.js, Redis, RESTful APIs
+**Tech Stack:** `Flask` • `Vue.js` • `Redis` • `RESTful APIs`
 
-### 🤖 Intellica - AI Customer Support Platform
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/22f3001825/soft-engg-project-sep-2025-se-SEP-16)
+</td>
+<td width="50%" valign="top">
 
-AI-powered customer support system with RAG chatbot, smart ticketing, and multi-role portal. Implements natural language processing for automated priority assignment and intelligent routing.
+### 🤖 Intellica - AI Customer Support
 
-**Key Features:**
-- RAG Chatbot for context-aware assistance
-- AI Copilot for real-time agent support
-- Smart ticket classification and prioritization
-- Analytics dashboard with performance metrics
+<a href="https://github.com/22f3001825/soft-engg-project-sep-2025-se-SEP-16">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=22f3001825&repo=soft-engg-project-sep-2025-se-SEP-16&theme=algolia&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff" />
+</a>
 
-**Tech Stack:** Python, NLP, Machine Learning, Full Stack Development
+AI-powered customer support system with RAG chatbot, smart ticketing, and multi-role portal. Implements NLP for automated priority assignment and intelligent routing.
+
+**Features:** Context-aware chatbot • AI Copilot • Smart classification • Analytics dashboard
+
+**Tech Stack:** `Python` • `NLP` • `Machine Learning` • `Full Stack`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ### 🌐 Portfolio Website
-[![Live Site](https://img.shields.io/badge/View_Live-FF5722?style=for-the-badge&logo=firefox)](https://22f3001825.github.io/my_portfolio-main/ali_jawad_portfolio/)
+[![View Live Site](https://img.shields.io/badge/🌟_View_Live_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://22f3001825.github.io/my_portfolio-main/ali_jawad_portfolio/)
 
 Responsive personal portfolio showcasing projects, skills, and professional experience with modern design and smooth animations.
+
+</div>
 
 ## GitHub Statistics
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22f3001825&show_icons=true&theme=algolia&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&text_color=ffffff&title_color=00D9FF&count_private=true&include_all_commits=true)](https://github.com/22f3001825)
+<img src="https://github-readme-stats.vercel.app/api?username=22f3001825&show_icons=true&theme=algolia&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&text_color=ffffff&title_color=00D9FF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=22f3001825&theme=algolia&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://github.com/22f3001825)
+<img src="https://streak-stats.demolab.com?user=22f3001825&theme=dark&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22f3001825&layout=compact&theme=algolia&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=ffffff&hide_border=false)](https://github.com/22f3001825)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22f3001825&layout=compact&theme=algolia&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=22f3001825&custom_title=Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true)](https://github.com/22f3001825)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=22f3001825&custom_title=Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
